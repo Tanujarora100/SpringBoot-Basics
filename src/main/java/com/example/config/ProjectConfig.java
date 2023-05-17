@@ -1,6 +1,6 @@
 package com.example.config;
 
-import com.example.springbean.Vehicle;
+import com.example.entity.Vehicle;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

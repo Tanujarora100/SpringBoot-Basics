@@ -1,4 +1,4 @@
-package com.example.springbean;
+package com.example.entity;
 
 import lombok.NoArgsConstructor;
 
